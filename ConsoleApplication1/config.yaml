@@ -1,0 +1,6 @@
+---
+assets:
+  - id: 0
+    path: assets/lily_low.png
+  - id: 1
+    path: assets/lily_light.png
